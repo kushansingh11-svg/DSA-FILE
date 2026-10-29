@@ -1,4 +1,4 @@
-# DSA Submissions - Comprehensive Documentation
+# DSA practical  - Comprehensive Documentation
 
 A repository of Data Structures and Algorithms implementations in C++, containing sorting algorithms, linked list variations, stacks, queues, binary trees, binary search trees, AVL trees, heaps, and algorithmic problems.
 
